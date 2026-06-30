@@ -10,6 +10,8 @@
 
 ##📌PROJECTS
 - Calculator
+- Text Analyser
+- Periodic Table
 - More coming soon.....
 
 ##🌏LANGUAGES
