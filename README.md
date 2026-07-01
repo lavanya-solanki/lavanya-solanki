@@ -10,6 +10,8 @@
 
 ##📌PROJECTS
 - Calculator
+- Number Sorting Tool
+- Fibonacci Series
 - Text Analyser
 - Periodic Table
 - More coming soon.....
